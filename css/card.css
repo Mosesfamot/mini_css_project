@@ -103,6 +103,7 @@ footer {
   margin: 1rem;
   text-align: center;
 }
+
 /* Media Queries are arranged from smallest to the largest for them to work perfectly */
 /* || SMALL */
 @media screen and (min-width: 576px) {
@@ -153,6 +154,7 @@ footer {
   }
 }
 
+/* This design is for those that want to view the webpage on a mobile device landscape */
 /* || MOBILE DEVICE LANDSCAPE  */
 @media screen and (max-height: 425px) and (min-aspect-ratio: 7/4) {
   h1 {
